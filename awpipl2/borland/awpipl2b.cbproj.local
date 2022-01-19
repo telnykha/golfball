@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\awpipl2"/>
+    <File Path="..\src"/>
+    <File Path="..\src\awpApprox.c"/>
+    <File Path="..\src\awpBaseAnalysis.c"/>
+    <File Path="..\src\awpBlur.c"/>
+    <File Path="..\src\awpCamera.c"/>
+    <File Path="..\src\awpchannels.c"/>
+    <File Path="..\src\awpColor.c"/>
+    <File Path="..\src\awpcommon.c"/>
+    <File Path="..\src\awpcontour.c"/>
+    <File Path="..\src\awpcontrast.c"/>
+    <File Path="..\src\awpconvert.c"/>
+    <File Path="..\src\awpcopypaste.c"/>
+    <File Path="..\src\awpDistance.c"/>
+    <File Path="..\src\awpdraw.c"/>
+    <File Path="..\src\awpEdge.c"/>
+    <File Path="..\src\awpfft.c"/>
+    <File Path="..\src\awpframeprocess.c"/>
+    <File Path="..\src\awpGauss.c"/>
+    <File Path="..\src\awpgeometry.c"/>
+    <File Path="..\src\awpInterpolation.c"/>
+    <File Path="..\src\awpio.c"/>
+    <File Path="..\src\awplbp.c"/>
+    <File Path="..\src\awpmaskconvolution.c"/>
+    <File Path="..\src\awpMedian.c"/>
+    <File Path="..\src\awpNorm.c"/>
+    <File Path="..\src\awppoints.c"/>
+    <File Path="..\src\awpscanners.c"/>
+    <File Path="..\src\awpstroke.c"/>
+    <File Path="..\src\awpthreshold.c"/>
+    <File Path="..\src\_awpColor.c"/>
+    <File Path="..\src\_awpio.c"/>
+    <File Path="New1.txt"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.439,=C:\_alt\_proj\awpipl2\src\awpscanners.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.804,=C:\_alt\_proj\awpipl2\src\awpCamera.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.376,=C:\_alt\_proj\awpipl2\src\awppoints.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,C:\_alt\_proj\awpipl2\src\awpCameraUnit.c=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.320,=C:\_alt\_proj\awpipl2\src\awplbp.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,=C:\_alt\_proj\awpipl2\src\awpMedian.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.257,=C:\_alt\_proj\awpipl2\src\awpdetector.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.458,C:\_alt\_proj\awpipl2\src\awpdetector.c=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=C:\_alt\_proj\awpipl2\src\awpGauss.c</Transaction>
+  </Transactions>
+</BorlandProject>
