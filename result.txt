@@ -1,0 +1,10 @@
+++++++++ Far/Frr calculation. +++++++++++++
+Database: images count = 629
+Database: items count  = 706
+Engine: name = ball_1.xml
+Engine: stages = 13
+Settings: Overlap = 0.100000
+Result: Far = 1.250708
+Result: Frr = 0.189802
+Result: Fpf = 1.836081e-006
+Result: tau  = 639.000000
